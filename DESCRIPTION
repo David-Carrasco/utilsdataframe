@@ -1,0 +1,10 @@
+Package: utilsdataframe
+Type: Package
+Title: Functions to deal with types and NAs within a dataframe
+Version: 0.1
+Date: 2015-09-16
+Author: David
+Maintainer: Who to complain to <yourfault@somewhere.net>
+Description: More about what it does (maybe more than one line)
+License: MIT
+LazyData: TRUE
